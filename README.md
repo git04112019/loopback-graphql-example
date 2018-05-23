@@ -12,8 +12,8 @@ $ node .
 
 You will see the following message on screen:
 ```
-Web server listening at: http://localhost:3009
-Browse your REST API at http://localhost:3009/explorer
+Web server listening at: http://localhost:3000
+Browse your REST API at http://localhost:3000/explorer
 Copy this access token for test:  xxxxxxxxx
  ```
  
